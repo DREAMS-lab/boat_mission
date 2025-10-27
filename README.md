@@ -1,2 +1,5 @@
-# boat_mission
-This repo contains the debriefs from boat missions carried out in Tempe Town Lake with links to data folders and scripts to analyse the data.
+# Index to Debreifs
+
+## 25th October, 2025
+
+[DB-10/25/2025](https://github.com/blazair/spacerobotics/blob/main/assignments/assignment_1/lawny_ws/README.md)
